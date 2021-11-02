@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97b7c5e5.chunk.css",
+    "main.js": "/static/js/main.4cb7c70a.chunk.js",
+    "main.js.map": "/static/js/main.4cb7c70a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09113cb3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09113cb3.js.map",
+    "static/js/2.009e834f.chunk.js": "/static/js/2.009e834f.chunk.js",
+    "static/js/2.009e834f.chunk.js.map": "/static/js/2.009e834f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.97b7c5e5.chunk.css.map": "/static/css/main.97b7c5e5.chunk.css.map",
+    "static/js/2.009e834f.chunk.js.LICENSE.txt": "/static/js/2.009e834f.chunk.js.LICENSE.txt",
+    "static/media/baked_rolls_desktop.png": "/static/media/baked_rolls_desktop.ad3053ee.png",
+    "static/media/beverages_desktop.2ef315a4.png": "/static/media/beverages_desktop.2ef315a4.png",
+    "static/media/col1_sets.723f2045.png": "/static/media/col1_sets.723f2045.png",
+    "static/media/egg.94780ded.svg": "/static/media/egg.94780ded.svg",
+    "static/media/all.css": "/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/fried_rolls_desktop.png": "/static/media/fried_rolls_desktop.ac2fc0c3.png",
+    "static/media/rolls_desktop.png": "/static/media/rolls_desktop.795cb214.png",
+    "static/media/soups_desktop.f27679bc.png": "/static/media/soups_desktop.f27679bc.png",
+    "static/media/sushi_desktop.png": "/static/media/sushi_desktop.8843e1d2.png",
+    "static/media/wok_desktop.d2761cf5.png": "/static/media/wok_desktop.d2761cf5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09113cb3.js",
+    "static/js/2.009e834f.chunk.js",
+    "static/css/main.97b7c5e5.chunk.css",
+    "static/js/main.4cb7c70a.chunk.js"
+  ]
+}
